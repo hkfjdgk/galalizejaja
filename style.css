@@ -130,6 +130,7 @@ body.standalone .header-container {
     width: 135px;
     height: auto;
     margin-bottom: 10px; /* Reduced space */
+    border-radius: 15px;
 }
 .flag {
     width: 80px;
