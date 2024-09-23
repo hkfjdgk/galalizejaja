@@ -38,6 +38,7 @@ body.standalone .header-container {
     max-width: 414px;
     margin: 0 auto;
     box-sizing: border-box;
+    font-weight: 700;
 }
 .header img {
     width: 20px;
